@@ -94,7 +94,7 @@ analytics:
 author:
   name: '송승연'
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: '꾸준히 성장하는 개발자가 되고 싶습니다.'
+  bio: '꾸준히 성장하는 개발자가<br> 되고 싶습니다.'
   location: 'Republic of Korea'
   email: 'ream123@naver.com'
   links:
