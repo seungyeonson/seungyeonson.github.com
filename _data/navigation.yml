@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: '연도별 포스트'
-    url: /year-archive/
   - title: 'Categories'
     url: /categories/
   - title: 'Tags'
     url: /tags/
-  - title: 'Pages'
-    url: /page-archive/
-  - title: 'Collections'
-    url: /collection-archive/
+  - title: '연도별 포스트'
+    url: /posts/
+  # - title: 'Pages'
+  #   url: /page-archive/
+  # - title: 'Collections'
+  #   url: /collection-archive/
   # - title: "External Link"
   #   url: https://google.com
