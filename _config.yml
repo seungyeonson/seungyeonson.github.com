@@ -82,12 +82,12 @@ author:
   name: '송승연'
   avatar: '/assets/images/profile/avatar.jpg' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: '알고리즘, 인공지능, 웹을 <br>공부하는 개발자입니다.'
-  location: 'Republic of Korea'
+  location: 'Hyundai & Kia Motors Company (HKMC)'
   email: 'ream123@naver.com'
   links:
     - label: 'Email'
       icon: 'fas fa-fw fa-envelope-square'
-      url: 'mailto:ream123@naver.com'
+      url: 'mailto:s.yeon@hyundai.com'
     - label: 'Website'
       icon: 'fas fa-fw fa-link'
       url: 'https://seungyeonson.github.io'
